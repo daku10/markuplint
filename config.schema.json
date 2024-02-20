@@ -2,7 +2,7 @@
 	"$schema": "http://json-schema.org/draft-07/schema#",
 	"definitions": {
 		"rules": {
-			"$ref": "https://raw.githubusercontent.com/markuplint/markuplint/main/packages/%40markuplint/rules/schema.json#/definitions/rules",
+			"$ref": "https://raw.githubusercontent.com/daku10/markuplint/patch/packages/%40markuplint/rules/schema.json#/definitions/rules",
 			"additionalProperties": false,
 			"patternProperties": {
 				"^[^/]+/[^/]+$": {
