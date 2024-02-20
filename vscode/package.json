@@ -95,7 +95,7 @@
 		"jsonValidation": [
 			{
 				"fileMatch": "**/{.markuplintrc,.markuplintrc.json}",
-				"url": "https://raw.githubusercontent.com/markuplint/markuplint/main/config.schema.json"
+				"url": "https://raw.githubusercontent.com/daku10/markuplint/debug-vscode/config.schema.json"
 			}
 		]
 	},
